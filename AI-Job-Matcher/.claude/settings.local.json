@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"d:/TALAN SUMMER CAMP/cv/apps/api/app/services\" \"d:/TALAN SUMMER CAMP/cv/apps/api/app/routers\" \"d:/TALAN SUMMER CAMP/cv/apps/web/app/upload\" \"d:/TALAN SUMMER CAMP/cv/apps/web/app/matches\" \"d:/TALAN SUMMER CAMP/cv/apps/web/lib\" \"d:/TALAN SUMMER CAMP/cv/apps/web/components\")"
+    ],
+    "additionalDirectories": [
+      "d:\\TALAN SUMMER CAMP\\cv\\apps\\api\\app"
+    ]
+  }
+}
